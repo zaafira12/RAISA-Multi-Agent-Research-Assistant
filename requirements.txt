@@ -1,0 +1,10 @@
+Flask
+requests
+reportlab
+keybert
+sentence-transformers
+transformers
+torch
+scikit-learn
+numpy
+pandas
