@@ -1,0 +1,123 @@
+{
+    "topic": "Natural Language Processing",
+    "generated_on": "2026-04-13 19:56:04",
+    "papers": [
+        {
+            "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+            "year": 2021,
+            "abstract": "The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The PRISMA 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the PRISMA 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the PRISMA 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.",
+            "citations": 87880,
+            "source": "https://openalex.org/W3118615836",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "MizAR 60 for Mizar 50",
+            "year": 2023,
+            "abstract": "As a present to Mizar on its 50th anniversary, we develop an AI/TP system that automatically proves about 60% of the Mizar theorems in the hammer setting. We also automatically prove 75% of the Mizar theorems when the automated provers are helped by using only the premises used in the human-written Mizar proofs. We describe the methods and large-scale experiments leading to these results. This includes in particular the E and Vampire provers, their ENIGMA and Deepire learning modifications, a number of learning-based premise selection methods, and the incremental loop that interleaves growing a corpus of millions of ATP proofs with training increasingly strong AI/TP systems on them. We also present a selection of Mizar problems that were proved automatically.",
+            "citations": 74800,
+            "source": "https://openalex.org/W4385245566",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Gradient-based learning applied to document recognition",
+            "year": 1998,
+            "abstract": "Multilayer neural networks trained with the back-propagation algorithm constitute the best example of a successful gradient based learning technique. Given an appropriate network architecture, gradient-based learning algorithms can be used to synthesize a complex decision surface that can classify high-dimensional patterns, such as handwritten characters, with minimal preprocessing. This paper reviews various methods applied to handwritten character recognition and compares them on a standard handwritten digit recognition task. Convolutional neural networks, which are specifically designed to deal with the variability of 2D shapes, are shown to outperform all other techniques. Real-life document recognition systems are composed of multiple modules including field extraction, segmentation recognition, and language modeling. A new learning paradigm, called graph transformer networks (GTN), allows such multimodule systems to be trained globally using gradient-based methods so as to minimize an overall performance measure. Two systems for online handwriting recognition are described. Experiments demonstrate the advantage of global training, and the flexibility of graph transformer networks. A graph transformer network for reading a bank cheque is also described. It uses convolutional neural network character recognizers combined with global training techniques to provide record accuracy on business and personal cheques. It is deployed commercially and reads several million cheques per day.",
+            "citations": 57266,
+            "source": "https://openalex.org/W2112796928",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "AI-Assisted Pipeline for Dynamic Generation of Trustworthy Health Supplement Content at Scale",
+            "year": 2018,
+            "abstract": "Although geospatial question answering systems have received increasing attention in recent years, existing prototype systems struggle to properly answer qualitative spatial questions. In this work, we propose a unique framework for answering qualitative spatial questions, which comprises three main components: a geoparser that takes the input questions and extracts place semantic information from text, a reasoning system which is embedded with a crisp reasoner, and finally, answer extraction, which refines the solution space and generates final answers. We present an experimental design to evaluate our framework for point-based cardinal direction calculus (CDC) relations by developing an automated approach for generating three types of synthetic qualitative spatial questions. The initial evaluations of generated answers in our system are promising because a high proportion of answers were labelled correct.",
+            "citations": 45484,
+            "source": "https://openalex.org/W2896457183",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+            "year": 2020,
+            "abstract": "SciPy is an open-source scientific computing library for the Python programming language. Since its initial release in 2001, SciPy has become a de facto standard for leveraging scientific algorithms in Python, with over 600 unique code contributors, thousands of dependent packages, over 100,000 dependent repositories and millions of downloads per year. In this work, we provide an overview of the capabilities and development practices of SciPy 1.0 and highlight some recent technical developments.",
+            "citations": 36330,
+            "source": "https://openalex.org/W3003257820",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "A new criterion for assessing discriminant validity in variance-based structural equation modeling",
+            "year": 2014,
+            "abstract": "Discriminant validity assessment has become a generally accepted prerequisite for analyzing relationships between latent variables. For variance-based structural equation modeling, such as partial least squares, the Fornell-Larcker criterion and the examination of cross-loadings are the dominant approaches for evaluating discriminant validity. By means of a simulation study, we show that these approaches do not reliably detect the lack of discriminant validity in common research situations. We therefore propose an alternative approach, based on the multitrait-multimethod matrix, to assess discriminant validity: the heterotrait-monotrait ratio of correlations. We demonstrate its superior performance by means of a Monte Carlo simulation study, in which we compare the new approach to the Fornell-Larcker criterion and the assessment of (partial) cross-loadings. Finally, we provide guidelines on how to handle discriminant validity issues in variance-based structural equation modeling.",
+            "citations": 31724,
+            "source": "https://openalex.org/W2105846236",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Features and development of <i>Coot</i>",
+            "year": 2010,
+            "abstract": "Coot is a molecular-graphics application for model building and validation of biological macromolecules. The program displays electron-density maps and atomic models and allows model manipulations such as idealization, real-space refinement, manual rotation/translation, rigid-body fitting, ligand search, solvation, mutations, rotamers and Ramachandran idealization. Furthermore, tools are provided for model validation as well as interfaces to external programs for refinement, validation and graphics. The software is designed to be easy to learn for novice users, which is achieved by ensuring that tools for common tasks are 'discoverable' through familiar user-interface elements (menus and toolbars) or by intuitive behaviour (mouse controls). Recent developments have focused on providing tools for expert users, with customisable key bindings, extensions and an extensive scripting interface. The software is under rapid development, but has already achieved very widespread use within the crystallographic community. The current state of the software is presented, with a description of the facilities available and of some of the underlying methods employed.",
+            "citations": 29137,
+            "source": "https://openalex.org/W2124026197",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "WGCNA: an R package for weighted correlation network analysis",
+            "year": 2008,
+            "abstract": "The WGCNA package provides R functions for weighted correlation network analysis, e.g. co-expression network analysis of gene expression data. The R package along with its source code and additional material are freely available at http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/Rpackages/WGCNA.",
+            "citations": 28457,
+            "source": "https://openalex.org/W1966327575",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials",
+            "year": 2009,
+            "abstract": "QUANTUM ESPRESSO is an integrated suite of computer codes for electronic-structure calculations and materials modeling, based on density-functional theory, plane waves, and pseudopotentials (norm-conserving, ultrasoft, and projector-augmented wave). The acronym ESPRESSO stands for opEn Source Package for Research in Electronic Structure, Simulation, and Optimization. It is freely available to researchers around the world under the terms of the GNU General Public License. QUANTUM ESPRESSO builds upon newly-restructured electronic-structure codes that have been developed and tested by some of the original authors of novel electronic-structure algorithms and applied in the last twenty years by some of the leading materials modeling groups worldwide. Innovation and efficiency are still its main focus, with special attention paid to massively parallel architectures, and a great effort being devoted to user friendliness. QUANTUM ESPRESSO is evolving towards a distribution of independent and interoperable codes in the spirit of an open-source project, where researchers active in the field of electronic-structure calculations are encouraged to participate in the project by contributing their own codes or by implementing their own ideas into existing codes.",
+            "citations": 28408,
+            "source": "https://openalex.org/W2120145199",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Clinical diagnosis of Alzheimer's disease",
+            "year": 1984,
+            "abstract": "Clinical criteria for the diagnosis of Alzheimer's disease include insidious onset and progressive impairment of memory and other cognitive functions. There are no motor, sensory, or coordination deficits early in the disease. The diagnosis cannot be determined by laboratory tests. These tests are important primarily in identifying other possible causes of dementia that must be excluded before the diagnosis of Alzheimer's disease may be made with confidence. Neuropsychological tests provide confirmatory evidence of the diagnosis of dementia and help to assess the course and response to therapy. The criteria proposed are intended to serve as a guide for the diagnosis of probable, possible, and definite Alzheimer's disease; these criteria will be revised as more definitive information become available.",
+            "citations": 27930,
+            "source": "https://openalex.org/W2156220037",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        }
+    ],
+    "trends": {
+        "yearly_counts": {
+            "1984": 1,
+            "1998": 1,
+            "2008": 1,
+            "2009": 1,
+            "2010": 1,
+            "2014": 1,
+            "2018": 1,
+            "2020": 1,
+            "2021": 1,
+            "2023": 1
+        },
+        "yearly_impact": {
+            "1984": 27930.0,
+            "1998": 57266.0,
+            "2008": 28457.0,
+            "2009": 28408.0,
+            "2010": 29137.0,
+            "2014": 31724.0,
+            "2018": 45484.0,
+            "2020": 36330.0,
+            "2021": 87880.0,
+            "2023": 74800.0
+        },
+        "peak_year": 2021
+    }
+}

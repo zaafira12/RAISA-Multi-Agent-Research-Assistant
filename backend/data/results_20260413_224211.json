@@ -1,0 +1,119 @@
+{
+    "topic": "Cybersecurity",
+    "generated_on": "2026-04-13 22:42:11",
+    "papers": [
+        {
+            "title": "Diagnosing Non-Intermittent Anomalies in Reinforcement Learning Policy Executions (Short Paper)",
+            "year": 2017,
+            "abstract": "Due to the safety risks and training sample inefficiency, it is often preferred to develop controllers in simulation. However, minor differences between the simulation and the real world can cause a significant sim-to-real gap. This gap can reduce the effectiveness of the developed controller. In this paper, we examine a case study of transferring an octorotor reinforcement learning controller from simulation to the real world. First, we quantify the effectiveness of the real-world transfer by examining safety metrics. We find that although there is a noticeable (around 100%) increase in deviation in real flights, this deviation may not be considered unsafe, as it will be within > 2m safety corridors. Then, we estimate the densities of the measurement distributions and compare the Jensen-Shannon divergences of simulated and real measurements. From this, we show that the vehicle\u2019s orientation is significantly different between simulated and real flights. We attribute this to a different flight mode in real flights where the vehicle turns to face the next waypoint. We also find that the reinforcement learning controller actions appear to correctly counteract disturbance forces. Then, we analyze the errors of a measurement autoencoder and state transition model neural network applied to real data. We find that these models further reinforce the difference between the simulated and real attitude control, showing the errors directly on the flight paths. Finally, we discuss important lessons learned in the sim-to-real transfer of our controller.",
+            "citations": 11269,
+            "source": "https://openalex.org/W2736601468",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Internet of Things: A Survey on Enabling Technologies, Protocols, and Applications",
+            "year": 2015,
+            "abstract": "This paper provides an overview of the Internet of Things (IoT) with emphasis on enabling technologies, protocols, and application issues. The IoT is enabled by the latest developments in RFID, smart sensors, communication technologies, and Internet protocols. The basic premise is to have smart sensors collaborate directly without human involvement to deliver a new class of applications. The current revolution in Internet, mobile, and machine-to-machine (M2M) technologies can be seen as the first phase of the IoT. In the coming years, the IoT is expected to bridge diverse technologies to enable new applications by connecting physical objects together in support of intelligent decision making. This paper starts by providing a horizontal overview of the IoT. Then, we give an overview of some technical details that pertain to the IoT enabling technologies, protocols, and applications. Compared to other survey papers in the field, our objective is to provide a more thorough summary of the most relevant protocols and application issues to enable researchers and application developers to get up to speed quickly on how the different protocols fit together to deliver desired functionalities without having to go through RFCs and the standards specifications. We also provide an overview of some of the key IoT challenges presented in the recent literature and provide a summary of related research work. Moreover, we explore the relation between the IoT and other emerging technologies including big data analytics and cloud and fog computing. We also present the need for better horizontal integration among IoT services. Finally, we present detailed service use-cases to illustrate how the different protocols presented in the paper fit together to deliver desired IoT services.",
+            "citations": 8165,
+            "source": "https://openalex.org/W2134295053",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+            "year": 2021,
+            "abstract": "In the last few years, the deep learning (DL) computing paradigm has been deemed the Gold Standard in the machine learning (ML) community. Moreover, it has gradually become the most widely used computational approach in the field of ML, thus achieving outstanding results on several complex cognitive tasks, matching or even beating those provided by human performance. One of the benefits of DL is the ability to learn massive amounts of data. The DL field has grown fast in the last few years and it has been extensively used to successfully address a wide range of traditional applications. More importantly, DL has outperformed well-known ML techniques in many domains, e.g., cybersecurity, natural language processing, bioinformatics, robotics and control, and medical information processing, among many others. Despite it has been contributed several works reviewing the State-of-the-Art on DL, all of them only tackled one aspect of the DL, which leads to an overall lack of knowledge about it. Therefore, in this contribution, we propose using a more holistic approach in order to provide a more suitable starting point from which to develop a full understanding of DL. Specifically, this review attempts to provide a more comprehensive survey of the most important aspects of DL and including those enhancements recently added to the field. In particular, this paper outlines the importance of DL, presents the types of DL techniques and networks. It then presents convolutional neural networks (CNNs) which the most utilized DL network type and describes the development of CNNs architectures together with their main features, e.g., starting with the AlexNet network and closing with the High-Resolution network (HR.Net). Finally, we further present the challenges and suggested solutions to help researchers understand the existing research gaps. It is followed by a list of the major DL applications. Computational tools including FPGA, GPU, and CPU are summarized along with a description of their influence on DL. The paper ends with the evolution matrix, benchmark datasets, and summary and conclusion.",
+            "citations": 7258,
+            "source": "https://openalex.org/W3140854437",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Massive MIMO for next generation wireless systems",
+            "year": 2014,
+            "abstract": "Multi-user MIMO offers big advantages over conventional point-to-point MIMO: it works with cheap single-antenna terminals, a rich scattering environment is not required, and resource allocation is simplified because every active terminal utilizes all of the time-frequency bins. However, multi-user MIMO, as originally envisioned, with roughly equal numbers of service antennas and terminals and frequency-division duplex operation, is not a scalable technology. Massive MIMO (also known as large-scale antenna systems, very large MIMO, hyper MIMO, full-dimension MIMO, and ARGOS) makes a clean break with current practice through the use of a large excess of service antennas over active terminals and time-division duplex operation. Extra antennas help by focusing energy into ever smaller regions of space to bring huge improvements in throughput and radiated energy efficiency. Other benefits of massive MIMO include extensive use of inexpensive low-power components, reduced latency, simplification of the MAC layer, and robustness against intentional jamming. The anticipated throughput depends on the propagation environment providing asymptotically orthogonal channels to the terminals, but so far experiments have not disclosed any limitations in this regard. While massive MIMO renders many traditional research problems irrelevant, it uncovers entirely new problems that urgently need attention: the challenge of making many low-cost low-precision components that work effectively together, acquisition and synchronization for newly joined terminals, the exploitation of extra degrees of freedom provided by the excess of service antennas, reducing internal power consumption to achieve total energy efficiency reductions, and finding new deployment scenarios. This article presents an overview of the massive MIMO concept and contemporary research on the topic.",
+            "citations": 6823,
+            "source": "https://openalex.org/W2141682101",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+            "year": 2021,
+            "abstract": "No abstract available.",
+            "citations": 4876,
+            "source": "https://openalex.org/W3135028703",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Opinion Paper: \u201cSo what if ChatGPT wrote it?\u201d Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+            "year": 2023,
+            "abstract": "Transformative artificially intelligent tools, such as ChatGPT, designed to generate sophisticated text indistinguishable from that produced by a human, are applicable across a wide range of contexts. The technology presents opportunities as well as, often ethical and legal, challenges, and has the potential for both positive and negative impacts for organisations, society, and individuals. Offering multi-disciplinary insight into some of these, this article brings together 43 contributions from experts in fields such as computer science, marketing, information systems, education, policy, hospitality and tourism, management, publishing, and nursing. The contributors acknowledge ChatGPT\u2019s capabilities to enhance productivity and suggest that it is likely to offer significant gains in the banking, hospitality and tourism, and information technology industries, and enhance business activities, such as management and marketing. Nevertheless, they also consider its limitations, disruptions to practices, threats to privacy and security, and consequences of biases, misuse, and misinformation. However, opinion is split on whether ChatGPT\u2019s use should be restricted or legislated. Drawing on these contributions, the article identifies questions requiring further research across three thematic areas: knowledge, transparency, and ethics; digital transformation of organisations and societies; and teaching, learning, and scholarly research. The avenues for further research include: identifying skills, resources, and capabilities needed to handle generative AI; examining biases of generative AI attributable to training datasets and processes; exploring business and societal contexts best suited for generative AI implementation; determining optimal combinations of human and generative AI for various tasks; identifying ways to assess accuracy of text produced by generative AI; and uncovering the ethical and legal issues in using generative AI across different contexts.",
+            "citations": 3405,
+            "source": "https://openalex.org/W4360620450",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models",
+            "year": 2023,
+            "abstract": "We evaluated the performance of a large language model called ChatGPT on the United States Medical Licensing Exam (USMLE), which consists of three exams: Step 1, Step 2CK, and Step 3. ChatGPT performed at or near the passing threshold for all three exams without any specialized training or reinforcement. Additionally, ChatGPT demonstrated a high level of concordance and insight in its explanations. These results suggest that large language models may have the potential to assist with medical education, and potentially, clinical decision-making.",
+            "citations": 3396,
+            "source": "https://openalex.org/W4319662928",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Guidance for industry: patient-reported outcome measures: use in medical product development to support labeling claims: draft guidance",
+            "year": 2006,
+            "abstract": "This guidance describes how the FDA evaluates patient-reported outcome (PRO) instruments used as effectiveness endpoints in clinical trials. It also describes our current thinking on how sponsors can develop and use study results measured by PRO instruments to support claims in approved product labeling (see appendix point 1). It does not address the use of PRO instruments for purposes beyond evaluation of claims made about a drug or medical product in its labeling. By explicitly addressing the review issues identified in this guidance, sponsors can increase the efficiency of their endpoint discussions with the FDA during the product development process, streamline the FDA's review of PRO endpoint adequacy, and provide optimal information about the patient's perspective of treatment benefit at the time of product approval. A PRO is a measurement of any aspect of a patient's health status that comes directly from the patient (i.e., without the interpretation of the patient's responses by a physician or anyone else). In clinical trials, a PRO instrument can be used to measure the impact of an intervention on one or more aspects of patients' health status, hereafter referred to as PRO concepts, ranging from the purely symptomatic (response of a headache) to more complex concepts (e.g., ability to carry out activities of daily living), to extremely complex concepts such as quality of life, which is widely understood to be a multidomain concept with physical, psychological, and social components. Data generated by a PRO instrument can provide evidence of a treatment benefit from the patient perspective. For this data to be meaningful, however, there should be evidence that the PRO instrument effectively measures the particular concept that is studied. Generally, findings measured by PRO instruments may be used to support claims in approved product labeling if the claims are derived from adequate and well-controlled investigations that use PRO instruments that reliably and validly measure the specific concepts at issue. The glossary defines many of the terms used in this guidance. In particular, the term instrument refers to the actual questions or items contained in a questionnaire or interview schedule along with all the additional information and documentation that supports the use of these items in producing a PRO measure (e.g., interviewer training and instructions, scoring and interpretation manual). The term conceptual framework refers to how items are grouped according to subconcepts or domains (e.g., the item walking without help may be grouped with another item, walking with difficulty, within the domain of ambulation, and ambulation may be further grouped into the concept of physical ability). FDA's guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidance documents describe the Agency's current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance documents means that something is suggested or recommended but not required. First publication of the Draft Guidance by the Food and Drug Administration--February 2006.",
+            "citations": 2854,
+            "source": "https://openalex.org/W4250968058",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+            "year": 2020,
+            "abstract": "The emergence of artificial intelligence (AI) and its progressively wider impact on many sectors requires an assessment of its effect on the achievement of the Sustainable Development Goals. Using a consensus-based expert elicitation process, we find that AI can enable the accomplishment of 134 targets across all the goals, but it may also inhibit 59 targets. However, current research foci overlook important aspects. The fast development of AI needs to be supported by the necessary regulatory insight and oversight for AI-based technologies to enable sustainable development. Failure to do so could result in gaps in transparency, safety, and ethical standards.",
+            "citations": 2778,
+            "source": "https://openalex.org/W3000603264",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "New Evidence and Perspectives on Mergers",
+            "year": 2001,
+            "abstract": "As in previous decades, merger activity clusters by industry during the 1990s. One particular kind of industry shock, deregulation, becomes a dominant factor, accountings for nearly half of the merger activity since the late 1980s. In contrast to the 1980s, mergers in the 1990s are mostly stock swaps, and hostile takeovers virtually disappear. Over our 1973 to 1998 sample period, the announcement-period stock market response to mergers is positive for the combined merging parties, suggesting that mergers create value on behalf of shareholders. Consistent with that, we find evidence of improved operating performance following mergers, relative to industry peers.",
+            "citations": 2710,
+            "source": "https://openalex.org/W3123914693",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        }
+    ],
+    "trends": {
+        "yearly_counts": {
+            "2001": 1,
+            "2006": 1,
+            "2014": 1,
+            "2015": 1,
+            "2017": 1,
+            "2020": 1,
+            "2021": 2,
+            "2023": 2
+        },
+        "yearly_impact": {
+            "2001": 2710.0,
+            "2006": 2854.0,
+            "2014": 6823.0,
+            "2015": 8165.0,
+            "2017": 11269.0,
+            "2020": 2778.0,
+            "2021": 6067.0,
+            "2023": 3400.5
+        },
+        "peak_year": 2021
+    }
+}

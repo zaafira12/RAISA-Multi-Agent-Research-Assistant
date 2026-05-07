@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Deep learning",
+        "year": 2015,
+        "abstract": "No abstract available."
+    },
+    {
+        "title": "Deep Residual Learning for Image Recognition",
+        "year": 2016,
+        "abstract": "Actualmente diversas investigaciones se han enfocado en analizar a partir de videos de alta velocidad, caracter\u00edsticas de las descargas el\u00e9ctricas atmosf\u00e9ricas con el fin de adquirir mejor comprensi\u00f3n del fen\u00f3meno, que conlleva entre otros aspectos el desarrollo de sistemas de protecci\u00f3n robustos. La mayor\u00eda de las investigaciones han requerido de un observador que ante el suceso del evento provea un disparo manual a la c\u00e1mara permitiendo almacenar la informaci\u00f3n visual del fen\u00f3meno. Por tanto, este trabajo se orient\u00f3 en proponer una metodolog\u00eda para la detecci\u00f3n de las descargas utilizando dos implementaciones basadas en procesamiento de se\u00f1ales y visi\u00f3n computacional, con el prop\u00f3sito que el sistema aut\u00f3nomamente sea el que suministre el disparo, apartando al observador de la realizaci\u00f3n de esta tarea. El sistema de detecci\u00f3n basado en t\u00e9cnicas de procesamiento de im\u00e1genes requiri\u00f3 la adecuaci\u00f3n de m\u00e9todos de segmentaci\u00f3n, representaci\u00f3n, descripci\u00f3n y clasificaci\u00f3n. El algoritmo de reconocimiento con visi\u00f3n computacional se implement\u00f3 mediante la red neuronal convolucional EfficientNetB4. Fuera de l\u00ednea, las t\u00e9cnicas basadas en procesamiento de im\u00e1genes suministraron una precisi\u00f3n del 81.81%, mientras que haciendo uso de visi\u00f3n computacional la precisi\u00f3n fue de 71.63%. Con el objeto de evaluar el desempe\u00f1o en tiempo real, las t\u00e9cnicas de procesamiento se adaptaron en un ordenador de placa reducida correspondiente a la Raspberry Pi 3 modelo B+ obteni\u00e9ndose una precisi\u00f3n de 86.95%. Adicionalmente, se evalu\u00f3 la caracter\u00edstica de multiplicidad la cual corresponde al n\u00famero de descargas subsecuentes presentes en el canal de la descarga logrando una precisi\u00f3n de 66.66%. (Texto tomado de la fuente)"
+    },
+    {
+        "title": "Deep learning in neural networks: An overview",
+        "year": 2014,
+        "abstract": "No abstract available."
+    },
+    {
+        "title": "Deep Learning",
+        "year": 2016,
+        "abstract": "Deep learning is a form of machine learning that enables computers to learn from experience and understand the world in terms of a hierarchy of concepts. Because the computer gathers knowledge from experience, there is no need for a human computer operator to formally specify all the knowledge that the computer needs. The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones; a graph of these hierarchies would be many layers deep. This book introduces a broad range of topics in deep learning. The text offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology; and it surveys such applications as natural language processing, speech recognition, computer vision, online recommendation systems, bioinformatics, and videogames. Finally, the book offers research perspectives, covering such theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models. Deep Learning can be used by undergraduate or graduate students planning careers in either industry or research, and by software engineers who want to begin using deep learning in their products or platforms. A website offers supplementary material for both readers and instructors."
+    },
+    {
+        "title": "A survey on deep learning in medical image analysis",
+        "year": 2017,
+        "abstract": "No abstract available."
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Free radicals in biology and medicine",
+        "year": 1991,
+        "abstract": "No abstract available.",
+        "citations": 17237,
+        "source": "https://openalex.org/W2010094123"
+    },
+    {
+        "title": "Evidence based medicine: what it is and what it isn't",
+        "year": 1996,
+        "abstract": "International audience",
+        "citations": 15383,
+        "source": "https://openalex.org/W2106952837"
+    },
+    {
+        "title": "Harrison's Principles of Internal Medicine.",
+        "year": 1988,
+        "abstract": "Introduction To Clinical Medicine Cardinal Manifestations Of Disease Genetics And Disease Clinical Pharmacology Nutrition Infectious Disease Disorders Of The Cardiovascular System Disorders Of The Kidney And Urinary Tract Disorders Of The Gastrointestinal System Disorders Of The Immune System, Connective Tissue And Joints Hematology And Oncology Endocrinology And Metabolism Neurologic Disorders Environmental And Occupational Hazards.",
+        "citations": 12587,
+        "source": "https://openalex.org/W1605353467"
+    },
+    {
+        "title": "Free Radicals in Biology and Medicine",
+        "year": 2015,
+        "abstract": "Abstract The new edition of this well-established book is thoroughly revised and gives a comprehensive account of the role of free radicals, other reactive species (RS), and antioxidants in life, health, and disease. Chapter 1 reviews how oxygen (O2) is used by living organisms, why it can be toxic, and introduces the concept of oxygen radicals and other RS; their chemistry is detailed in Chapter 2, especially for superoxide, hydroxyl radical (including Fenton chemistry), peroxynitrite, nitric oxide, ozone, and singlet O2, with emphasis on their redox properties. Subsequent chapters detail what antioxidants can be made in vivo (e.g. superoxide dismutases, peroxiredoxins) and which can come from diet (e.g. vitamins E and C, carotenoids, and polyphenols such as the flavonoids) and how they work in vivo. The role of RS in cell proliferation, senescence, and death (e.g. by apoptosis, necrosis, or intermediate forms) is presented. Methods for measuring RS are described in detail, including electron paramagnetic resonance and biomarker determination. Useful roles for RS (e.g. cell signalling, phagocyte action), as well as systems in which they cause particular problems (e.g. premature babies, the eye, the ear) are presented. Acute and chronic inflammation are used to illustrate both roles There is a comprehensive description of the role of RS in human diseases, from cancer to heart disease to dementia, in the ageing process, and in the toxicity of many agents, from ethanol to carbon tetrachloride to paraquat. Therapeutic agents active against RS are reviewed in detail, including NADPH oxidase inhibitors, N-acetylcysteine, and Ebselen.",
+        "citations": 8745,
+        "source": "https://openalex.org/W4300198507"
+    },
+    {
+        "title": "Progressive Statistics for Studies in Sports Medicine and Exercise Science",
+        "year": 2008,
+        "abstract": "Statistical guidelines and expert statements are now available to assist in the analysis and reporting of studies in some biomedical disciplines. We present here a more progressive resource for sample-based studies, meta-analyses, and case studies in sports medicine and exercise science. We offer forthright advice on the following controversial or novel issues: using precision of estimation for inferences about population effects in preference to null-hypothesis testing, which is inadequate for assessing clinical or practical importance; justifying sample size via acceptable precision or confidence for clinical decisions rather than via adequate power for statistical significance; showing SD rather than SEM, to better communicate the magnitude of differences in means and nonuniformity of error; avoiding purely nonparametric analyses, which cannot provide inferences about magnitude and are unnecessary; using regression statistics in validity studies, in preference to the impractical and biased limits of agreement; making greater use of qualitative methods to enrich sample-based quantitative projects; and seeking ethics approval for public access to the depersonalized raw data of a study, to address the need for more scrutiny of research and better meta-analyses. Advice on less contentious issues includes the following: using covariates in linear models to adjust for confounders, to account for individual differences, and to identify potential mechanisms of an effect; using log transformation to deal with nonuniformity of effects and error; identifying and deleting outliers; presenting descriptive, effect, and inferential statistics in appropriate formats; and contending with bias arising from problems with sampling, assignment, blinding, measurement error, and researchers' prejudices. This article should advance the field by stimulating debate, promoting innovative approaches, and serving as a useful checklist for authors, reviewers, and editors.",
+        "citations": 8674,
+        "source": "https://openalex.org/W2020794622"
+    },
+    {
+        "title": "High-performance medicine: the convergence of human and artificial intelligence",
+        "year": 2018,
+        "abstract": "No abstract available.",
+        "citations": 7168,
+        "source": "https://openalex.org/W2908201961"
+    },
+    {
+        "title": "Cost-Effectiveness in Health and Medicine",
+        "year": 1996,
+        "abstract": "Abstract This is a unique, in-depth discussion of the uses and conduct of cost-effectiveness analyses (CEA) as decision-making aids in the health and medical fields. The product of over two years of deiberation by a multi-disciplinary Public Health Service appointed panel that included economists, ethicists, psychometricians, and clinicians, it explores cost-effectiveness in the context of societal decision-making for resource allocation purposes. It proposes that analysts include a \u201creference-case\u201d analysis in all CEA\u2019s designed to inform resource allocation and puts forth the most expicit set of guidelines (together with their rationale) ever outlined of the conduct of CEAs. Important theoretical and practical issues encountered in measuring costs and effectiveness, valuing outcomes, discounting, and dealing with uncertainty are examined in separate chapters. These discussions are complemented by additional chapters on framing and reporting of CEAs that aim to clarify the purpose of the analysis and the effective communication of its findings. Primarily intended for analysts in medicine and public health who wish to improve practice and comparability of CEAs, this book will also be of interest to decision-makers in government, managed care, and industry who wish to consider the roles and limitations of CEA and become familiar with criteria for evaluating these studies.",
+        "citations": 7100,
+        "source": "https://openalex.org/W1512398135"
+    },
+    {
+        "title": "Archives of Physical Medicine and Rehabilitation",
+        "year": 1976,
+        "abstract": "No abstract available.",
+        "citations": 5530,
+        "source": "https://openalex.org/W2968702009"
+    },
+    {
+        "title": "A New Initiative on Precision Medicine",
+        "year": 2015,
+        "abstract": "President Obama has announced a research initiative that aims to accelerate progress toward a new era of precision medicine, with a near-term focus on cancers and a longer-term aim to generate knowledge applicable to the whole range of health and disease.",
+        "citations": 5031,
+        "source": "https://openalex.org/W2060427373"
+    },
+    {
+        "title": "Free Radicals in Biology and Medicine",
+        "year": 1990,
+        "abstract": "(1990). Free Radicals in Biology and Medicine. International Journal of Radiation Biology: Vol. 58, No. 4, pp. 725-725.",
+        "citations": 4872,
+        "source": "https://openalex.org/W2041293207"
+    }
+]

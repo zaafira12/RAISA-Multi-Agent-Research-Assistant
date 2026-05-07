@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Generated PDFs
+*.pdf
+
+# Temporary files
+.DS_Store
+Thumbs.db

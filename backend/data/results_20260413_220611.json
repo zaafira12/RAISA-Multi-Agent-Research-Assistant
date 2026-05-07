@@ -1,0 +1,121 @@
+{
+    "topic": "medicine",
+    "generated_on": "2026-04-13 22:06:11",
+    "papers": [
+        {
+            "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+            "year": 2021,
+            "abstract": "The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The PRISMA 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the PRISMA 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the PRISMA 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.",
+            "citations": 87880,
+            "source": "https://openalex.org/W3118615836",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+            "year": 2009,
+            "abstract": "Structured summary 2 Provide a structured summary including, as applicable, background, objectives, data sources, study eligibility criteria, participants, interventions, study appraisal and synthesis methods, results, limitations, conclusions and implications of key findings, systematic review registration number Flow of information through the different phases of a systematic review No of records identified through database searching No of additional records identified through other sources No of records after duplicates removed No of studies included in qualitative synthesis No of studies included in quantitative synthesis (meta-analysis)",
+            "citations": 82965,
+            "source": "https://openalex.org/W2156098321",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences",
+            "year": 2007,
+            "abstract": "No abstract available.",
+            "citations": 62355,
+            "source": "https://openalex.org/W2087484885",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Global cancer statistics",
+            "year": 2011,
+            "abstract": "The global burden of cancer continues to increase largely because of the aging and growth of the world population alongside an increasing adoption of cancer-causing behaviors, particularly smoking, in economically developing countries. Based on the GLOBOCAN 2008 estimates, about 12.7 million cancer cases and 7.6 million cancer deaths are estimated to have occurred in 2008; of these, 56% of the cases and 64% of the deaths occurred in the economically developing world. Breast cancer is the most frequently diagnosed cancer and the leading cause of cancer death among females, accounting for 23% of the total cancer cases and 14% of the cancer deaths. Lung cancer is the leading cancer site in males, comprising 17% of the total new cancer cases and 23% of the total cancer deaths. Breast cancer is now also the leading cause of cancer death among females in economically developing countries, a shift from the previous decade during which the most common cause of cancer death was cervical cancer. Further, the mortality burden for lung cancer among females in developing countries is as high as the burden for cervical cancer, with each accounting for 11% of the total female cancer deaths. Although overall cancer incidence rates in the developing world are half those seen in the developed world in both sexes, the overall cancer mortality rates are generally similar. Cancer survival tends to be poorer in developing countries, most likely because of a combination of a late stage at diagnosis and limited access to timely and standard treatment. A substantial proportion of the worldwide burden of cancer could be prevented through the application of existing cancer control knowledge and by implementing programs for tobacco control, vaccination (for liver and cervical cancers), and early detection and treatment, as well as public health campaigns promoting physical activity and a healthier dietary intake. Clinicians, public health professionals, and policy makers can play an active role in accelerating the application of such interventions globally.",
+            "citations": 55015,
+            "source": "https://openalex.org/W2106787323",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "The CES-D Scale",
+            "year": 1977,
+            "abstract": "The CES-D scale is a short self-report scale designed to measure depressive symptomatology in the general population. The items of the scale are symptoms associated with depression which have been used in previously validated longer scales. The new scale was tested in household interview surveys and in psychiatric settings. It was found to have very high internal consistency and adequate test- retest repeatability. Validity was established by pat terns of correlations with other self-report measures, by correlations with clinical ratings of depression, and by relationships with other variables which support its construct validity. Reliability, validity, and factor structure were similar across a wide variety of demographic characteristics in the general population samples tested. The scale should be a useful tool for epidemiologic studies of de pression.",
+            "citations": 52984,
+            "source": "https://openalex.org/W2112778345",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Short-Term Effects of Nose-Only Cigarette Smoke Exposure on Glutathione Redox Homeostasis, Cytochrome P450 1A1/2 and Respiratory Enzyme Activities in Mice Tissues",
+            "year": 2013,
+            "abstract": "These results suggest that even short term exposure of cigarette smoke have adverse effects on mitochondrial functions and redox homeostasis in tissues which may progress to further complications associated with chronic smoking.",
+            "citations": 47289,
+            "source": "https://openalex.org/W2018289835",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation",
+            "year": 2018,
+            "abstract": "Scoping reviews, a type of knowledge synthesis, follow a systematic approach to map evidence on a topic and identify main concepts, theories, sources, and knowledge gaps. Although more scoping reviews are being done, their methodological and reporting quality need improvement. This document presents the PRISMA-ScR (Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) checklist and explanation. The checklist was developed by a 24-member expert panel and 2 research leads following published guidance from the EQUATOR (Enhancing the QUAlity and Transparency Of health Research) Network. The final checklist contains 20 essential reporting items and 2 optional items. The authors provide a rationale and an example of good reporting for each item. The intent of the PRISMA-ScR is to help readers (including researchers, publishers, commissioners, policymakers, health care providers, guideline developers, and patients or consumers) develop a greater understanding of relevant terminology, core concepts, and key items to report for scoping reviews.",
+            "citations": 38078,
+            "source": "https://openalex.org/W2891378911",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses",
+            "year": 2009,
+            "abstract": "No abstract available.",
+            "citations": 34787,
+            "source": "https://openalex.org/W2072500831",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+            "year": 2020,
+            "abstract": "ResumenFactores pronsticos de mortalidad intrahospitalaria en pacientes ancianos con infeccin por COVID 19 ingresados a un hospital de tercer nivel en Bogot, ColombiaEl presente estudio tiene como objetivo establecer los factores pronsticos asociados al desarrollo de muerte intrahospitalaria en pacientes adultos mayores de 65 aos con infeccin por SARS-CoV2/COVID -19 confirmado en el Hospital Universitario Nacional de Colombia.Mtodos: Este es un estudio observacional analtico.Se evaluaron pacientes adultos mayores de 65 aos con diagnstico de infeccin por SARS-CoV2/COVID-19 confirmado.Los pacientes fueron estratificados por estado de fragilidad y funcionalidad.La mortalidad se determin a los 28 das y se cre un modelo de regresin logstica incondicional, ajustando por factores de confusin.La significancia estadstica se estableci en p 0,05.Resultados: 170 pacientes fueron estratificados en sobrevivientes y no sobrevivientes .El porcentaje de hombres en los sobrevivientes y no sobrevivientes fue similar, sin diferencias significativas en la edad promedio entre ambos grupos, tampoco en relacin a la presencia de sntomas.En el anlisis multivariado, las siguientes variables predijeron la ocurrencia del desenlace mortalidad a 28 das: fragilidad, antecedente de cncer, SDRA, lesin renal aguda y SOFA.Conclusiones: La tasa mortalidad a 28 das en pacientes adultos mayores de 65 aos con infeccin por COVID 19 en este estudio fue de 38%.Al ajustar por antecedente de cncer, desarrollo de lesin renal aguda, SDRA, puntuacin SOFA y PAFI al ingreso, la fragilidad se asoci con una mayor mortalidad en la poblacin estudiada.",
+            "citations": 30224,
+            "source": "https://openalex.org/W3001897055",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "RoB 2: a revised tool for assessing risk of bias in randomised trials",
+            "year": 2019,
+            "abstract": "Assessment of risk of bias is regarded as an essential component of a systematic review on the effects of an intervention. The most commonly used tool for randomised trials is the Cochrane risk-of-bias tool. We updated the tool to respond to developments in understanding how bias arises in randomised trials, and to address user feedback on and limitations of the original tool.",
+            "citations": 29039,
+            "source": "https://openalex.org/W2970684805",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        }
+    ],
+    "trends": {
+        "yearly_counts": {
+            "1977": 1,
+            "2007": 1,
+            "2009": 2,
+            "2011": 1,
+            "2013": 1,
+            "2018": 1,
+            "2019": 1,
+            "2020": 1,
+            "2021": 1
+        },
+        "yearly_impact": {
+            "1977": 52984.0,
+            "2007": 62355.0,
+            "2009": 58876.0,
+            "2011": 55015.0,
+            "2013": 47289.0,
+            "2018": 38078.0,
+            "2019": 29039.0,
+            "2020": 30224.0,
+            "2021": 87880.0
+        },
+        "peak_year": 2009
+    }
+}

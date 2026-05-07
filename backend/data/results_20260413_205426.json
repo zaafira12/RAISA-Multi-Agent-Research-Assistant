@@ -1,0 +1,121 @@
+{
+    "topic": "Artificial Intelligence",
+    "generated_on": "2026-04-13 20:54:26",
+    "papers": [
+        {
+            "title": "MizAR 60 for Mizar 50",
+            "year": 2023,
+            "abstract": "As a present to Mizar on its 50th anniversary, we develop an AI/TP system that automatically proves about 60% of the Mizar theorems in the hammer setting. We also automatically prove 75% of the Mizar theorems when the automated provers are helped by using only the premises used in the human-written Mizar proofs. We describe the methods and large-scale experiments leading to these results. This includes in particular the E and Vampire provers, their ENIGMA and Deepire learning modifications, a number of learning-based premise selection methods, and the incremental loop that interleaves growing a corpus of millions of ATP proofs with training increasingly strong AI/TP systems on them. We also present a selection of Mizar problems that were proved automatically.",
+            "citations": 74800,
+            "source": "https://openalex.org/W4385245566",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "",
+            "year": 2021,
+            "abstract": "Designing complex, dynamic yet multi-functional materials and devices is challenging because the design spaces for these materials have numerous interdependent and often conflicting constraints. Taking inspiration from advances in artificial intelligence and their applications in material discovery, we propose a computational method for designing metamorphic DNA-co-polymerized hydrogel structures. The method consists of a coarse-grained simulation and a deep learning-guided optimization system for exploring the immense design space of these structures. Here, we develop a simple numeric simulation of DNA-co-polymerized hydrogel shape change and seek to find designs for structured hydrogels that can fold into the shapes of different Arabic numerals in different actuation states. We train a convolutional neural network to classify and score the geometric outputs of the coarse-grained simulation to provide autonomous feedback for design optimization. We then construct a genetic algorithm that generates and selects large batches of material designs that compete with one another to evolve and converge on optimal objective-matching designs. We show that we are able to explore the large design space and learn important parameters and traits. We identify vital relationships between the material scale size and the range of shape change that can be achieved by individual domains and we elucidate trade-offs between different design parameters. Finally, we discover material designs capable of transforming into multiple different digits in different actuation states.",
+            "citations": 50110,
+            "source": "https://openalex.org/W2964121744",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "XGBoost",
+            "year": 2016,
+            "abstract": "Tree boosting is a highly effective and widely used machine learning method. In this paper, we describe a scalable end-to-end tree boosting system called XGBoost, which is used widely by data scientists to achieve state-of-the-art results on many machine learning challenges. We propose a novel sparsity-aware algorithm for sparse data and weighted quantile sketch for approximate tree learning. More importantly, we provide insights on cache access patterns, data compression and sharding to build a scalable tree boosting system. By combining these insights, XGBoost scales beyond billions of examples using far fewer resources than existing systems.",
+            "citations": 45926,
+            "source": "https://openalex.org/W2295598076",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "AI-Assisted Pipeline for Dynamic Generation of Trustworthy Health Supplement Content at Scale",
+            "year": 2018,
+            "abstract": "Although geospatial question answering systems have received increasing attention in recent years, existing prototype systems struggle to properly answer qualitative spatial questions. In this work, we propose a unique framework for answering qualitative spatial questions, which comprises three main components: a geoparser that takes the input questions and extracts place semantic information from text, a reasoning system which is embedded with a crisp reasoner, and finally, answer extraction, which refines the solution space and generates final answers. We present an experimental design to evaluate our framework for point-based cardinal direction calculus (CDC) relations by developing an automated approach for generating three types of synthetic qualitative spatial questions. The initial evaluations of generated answers in our system are promising because a high proportion of answers were labelled correct.",
+            "citations": 45484,
+            "source": "https://openalex.org/W2896457183",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Adaptation in Natural and Artificial Systems",
+            "year": 1992,
+            "abstract": "Genetic algorithms are playing an increasingly important role in studies of complex adaptive systems, ranging from adaptive agents in economic theory to the use of machine learning techniques in the design of complex devices such as aircraft turbines and integrated circuits. Adaptation in Natural and Artificial Systems is the book that initiated this field of study, presenting the theoretical foundations and exploring applications. In its most familiar form, adaptation is a biological process, whereby organisms evolve by rearranging genetic material to survive in environments confronting them. In this now classic work, Holland presents a mathematical model that allows for the nonlinearity of such complex interactions. He demonstrates the model's universality by applying it to economics, physiological psychology, game theory, and artificial intelligence and then outlines the way in which this approach modifies the traditional views of mathematical genetics. Initially applying his concepts to simply defined artificial systems with limited numbers of parameters, Holland goes on to explore their use in the study of a wide range of complex, naturally occuring processes, concentrating on systems having multiple factors that interact in nonlinear ways. Along the way he accounts for major effects of coadaptation and coevolution: the emergence of building blocks, or schemata, that are recombined and passed on to succeeding generations to provide, innovations and improvements. Bradford Books imprint",
+            "citations": 35555,
+            "source": "https://openalex.org/W1497256448",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Support-Vector Networks",
+            "year": 1995,
+            "abstract": "No abstract available.",
+            "citations": 32288,
+            "source": "https://openalex.org/W2119821739",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Random sample consensus",
+            "year": 1981,
+            "abstract": "A new paradigm, Random Sample Consensus (RANSAC), for fitting a model to experimental data is introduced. RANSAC is capable of interpreting/smoothing data containing a significant percentage of gross errors, and is thus ideally suited for applications in automated image analysis where interpretation is based on the data provided by error-prone feature detectors. A major portion of this paper describes the application of RANSAC to the Location Determination Problem (LDP): Given an image depicting a set of landmarks with known locations, determine that point in space from which the image was obtained. In response to a RANSAC requirement, new results are derived on the minimum number of landmarks needed to obtain a solution, and algorithms are presented for computing these minimum-landmark solutions in closed form. These results provide the basis for an automatic system that can solve the LDP under difficult viewing",
+            "citations": 25137,
+            "source": "https://openalex.org/W2085261163",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Artificial intelligence: a modern approach",
+            "year": 1995,
+            "abstract": "The long-anticipated revision of this #1 selling book offers the most comprehensive, state of the art introduction to the theory and practice of artificial intelligence for modern applications. Intelligent Agents. Solving Problems by Searching. Informed Search Methods. Game Playing. Agents that Reason Logically. First-order Logic. Building a Knowledge Base. Inference in First-Order Logic. Logical Reasoning Systems. Practical Planning. Planning and Acting. Uncertainty. Probabilistic Reasoning Systems. Making Simple Decisions. Making Complex Decisions. Learning from Observations. Learning with Neural Networks. Reinforcement Learning. Knowledge in Learning. Agents that Communicate. Practical Communication in English. Perception. Robotics. For computer professionals, linguists, and cognitive scientists interested in artificial intelligence.",
+            "citations": 22244,
+            "source": "https://openalex.org/W2122410182",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Array programming with NumPy",
+            "year": 2020,
+            "abstract": "Array programming provides a powerful, compact and expressive syntax for accessing, manipulating and operating on data in vectors, matrices and higher-dimensional arrays. NumPy is the primary array programming library for the Python language. It has an essential role in research analysis pipelines in fields as diverse as physics, chemistry, astronomy, geoscience, biology, psychology, materials science, engineering, finance and economics. For example, in astronomy, NumPy was an important part of the software stack used in the discovery of gravitational waves<sup>1</sup> and in the first imaging of a black hole<sup>2</sup>. Here we review how a few fundamental array concepts lead to a simple and powerful programming paradigm for organizing, exploring and analysing scientific data. NumPy is the foundation upon which the scientific Python ecosystem is constructed. It is so pervasive that several projects, targeting audiences with specialized needs, have developed their own NumPy-like interfaces and array objects. Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.",
+            "citations": 21128,
+            "source": "https://openalex.org/W3035965352",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        },
+        {
+            "title": "Fractional Differential Equations",
+            "year": 2025,
+            "abstract": "In recent times, researchers across various fields have become interested in the topic of fractional calculus based on integrals and derivatives of fractional order. This area has numerous and widespread applications in fields of science and engineering, including wave and fluid dynamics, mathematical biology, financial systems, structural dynamics, robotics, and artificial intelligence, among others. Therefore, fractional models have become relevant in the context of phenomena with memory effects, in place of the conventional reliance on ordinary or partial differential equations. Fractional calculus offers superior tools for addressing time-dependent effects compared to integer-order calculus, which forms the foundation of most mathematical systems. As a result, fractional calculus is crucial to modeling real-life problems, and finding mathematical solutions is a great challenge in this regard.",
+            "citations": 20501,
+            "source": "https://openalex.org/W2787959293",
+            "summary": "Click 'Analyze' to generate...",
+            "keywords": []
+        }
+    ],
+    "trends": {
+        "yearly_counts": {
+            "1981": 1,
+            "1992": 1,
+            "1995": 2,
+            "2016": 1,
+            "2018": 1,
+            "2020": 1,
+            "2021": 1,
+            "2023": 1,
+            "2025": 1
+        },
+        "yearly_impact": {
+            "1981": 25137.0,
+            "1992": 35555.0,
+            "1995": 27266.0,
+            "2016": 45926.0,
+            "2018": 45484.0,
+            "2020": 21128.0,
+            "2021": 50110.0,
+            "2023": 74800.0,
+            "2025": 20501.0
+        },
+        "peak_year": 1995
+    }
+}
